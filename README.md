@@ -97,6 +97,35 @@ Stores biometric identity hashes and verification logs securely on blockchain.
 
 ## Installation
 
+## Backend Setup
+
 ```bash
+pip install -r requirements.txt
+npm install
+```
+
+---
+
+## Run Application
+
+```bash
+python app.py
+```
+
+---
+
+## Screenshots
+
+(Add dashboard screenshots here)
+
+---
+
+## Future Improvements
+
+- Transformer-based fake profile detection
+- Real-time API monitoring
+- Multi-platform social media support
+- Graph-based bot network analysis
+- Advanced NLP spam analysis
 git clone https://github.com/kavana185/Fake-social-media-detection.git
 cd Fake-social-media-detection
